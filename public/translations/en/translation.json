@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to the tutorial",
+  "ours": {
+    "bleu": "I confirm that the bear is blue, even yellow",
+    "gris": "However most bears are gray",
+    "lien": "Click here and watch the bear"
+  }
+}
