@@ -4,7 +4,7 @@ import './App.css';
 import { useTranslation } from "react-i18next";
 
 function Page() {
-  const { t, i18n } = useTranslation(); 
+  const { i18n, t } = useTranslation(); 
 
   return (
     <div className="App">
@@ -26,7 +26,8 @@ function Page() {
         {t("welcome", "lol")}
         </p>
         <div>{t('ours.bleu', 'r')}</div>
-        <p><p>{t('ours.gris', 'lol')}</p></p>
+        <p>{t('ours.gris', 'lol')}</p>
+        <p>{t('new.traf', 'lol c une nouvelle trad')}</p>
         <a href='www.google.com'>{t('ours.lien', 'zouloudance')}</a>
       </header>
     </div>
