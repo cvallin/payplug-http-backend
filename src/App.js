@@ -30,6 +30,7 @@ function Page() {
         <p>{t('new.traf', 'lol c une nouvelle trad')}</p>
         <a href='www.google.com'>{t('ours.lien', 'zouloudance')}</a>
         <a href='https://lokalise.com/'>{t('lokalize.link', 'Ceci est un lien vers lokalise site web')}</a>
+        <p>{t('test.adam', 'Ceci est un test avec Adam')}</p>
       </header>
     </div>
   );

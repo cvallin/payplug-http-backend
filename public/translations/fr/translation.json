@@ -10,5 +10,8 @@
   },
   "lokalize": {
     "link": "Ceci est un lien vers lokalise site web"
+  },
+  "test": {
+    "adam": "Ceci est un test avec Adam"
   }
 }
