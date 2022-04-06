@@ -1,7 +1,7 @@
 var scanner = require('i18next-scanner');
 var vfs = require('vinyl-fs');
 var options = {
-    lngs: ['en', 'fr', 'arab', 'es', 'it'],
+    lngs: ['fr'],
     ns: ['translation'],
     defaultLng: 'fr',
     defaultNs: 'translation',
