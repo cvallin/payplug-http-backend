@@ -12,6 +12,7 @@
     "link": "Ceci est un lien vers lokalise site web"
   },
   "test": {
-    "adam": "Ceci est un test avec Adam"
+    "adam": "Ceci est un test avec Adam",
+    "autopull": "Ceci est un test d'auto-pullance"
   }
 }
