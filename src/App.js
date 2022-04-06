@@ -29,6 +29,7 @@ function Page() {
         <p>{t('ours.gris', 'lol')}</p>
         <p>{t('new.traf', 'lol c une nouvelle trad')}</p>
         <a href='www.google.com'>{t('ours.lien', 'zouloudance')}</a>
+        <a href='https://lokalise.com/'>{t('lokalize.link', 'Ceci est un lien vers lokalise site web')}</a>
       </header>
     </div>
   );
