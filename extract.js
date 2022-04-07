@@ -4,6 +4,7 @@ var options = {
     lngs: ['fr'],
     ns: ['translation'],
     defaultLng: 'fr',
+    removeUnusedKeys: true,
     defaultNs: 'translation',
     resource: {
         loadPath: 'public/translations/{{lng}}/{{ns}}.json',

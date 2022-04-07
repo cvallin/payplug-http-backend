@@ -8,9 +8,6 @@
   "new": {
     "traf": "lol c une nouvelle trad"
   },
-  "lokalize": {
-    "link": "Ceci est un lien vers lokalise site web"
-  },
   "test": {
     "adam": "Ceci est un test avec Adam",
     "autopull": "Ceci est un test d'auto-pullance"
