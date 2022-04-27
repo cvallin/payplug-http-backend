@@ -7,5 +7,1911 @@
   },
   "new": {
     "traf": "lol c une nouvelle trad"
+  },
+  "": "(ttc)",
+  "ShareProductButton": {
+    "AskPayment": "Ask a payment",
+    "ClickLinkAccess": "Click on this link to access the secure payment page"
+  },
+  "The PayLater has been deactivated": {
+    " If you need assistance <2>contact our support team": {
+      "</2>": "The PayLater has been deactivated. If you need assistance <2>contact our support team.</2>"
+    }
+  },
+  "account": {
+    "wrapperMonthlyStatements": {
+      "downloadError": "Download failed. Please try again.",
+      "downloadInProgress": "Your statement is downloading. Please wait a moment..."
+    }
+  },
+  "accountTermination": {
+    "beforeTerminationStep": {
+      "allowAtLeast48HoursAfterYourLastPaymentsBeforeClosingYourAccount": "Allow at least 48 hours after your last payments before closing your account",
+      "andYouWontBeAbleToReceivePaymentsAnymoreMakeSureThatYouHaveDownloaded": "and you won’t be able to receive payments anymore. Make sure that you have downloaded",
+      "anyDocument": "any document",
+      "beforeStartingTheClosingProcess": "Before starting the closing process",
+      "continue": "Continue",
+      "iTookNoteOfTheConditionsOfTerminationListedAbove": "I took note of the conditions of termination listed above.",
+      "pleaseMakeSureThatYouTookNoteOfTheFollowing": "Please make sure that you took note of the following:",
+      "thisMonthsSubscriptionWillBeCalculatedOnAPerDayOfUseBasisAndIncludedInYourLastInvoice": "This month’s subscription will be calculated on a per day of use basis and included in your last invoice",
+      "toMakeSureThatTheyWillBeAccountedForOnYourBalance": "to make sure that they will be accounted for on your balance.",
+      "whichYouWillFindInTheAccountingSectionOfThePortalAtTheEndOfTheMonth": "which you will find in the accounting section of the portal at the end of the month.",
+      "youMightNeedInTheFuture": "you might need in the future (Invoices, Statements...).",
+      "yourSubscriptionWillBeEnded": "Your subscription will be ended"
+    },
+    "cannotTerminate": {
+      "bankAccount": "Bank account",
+      "bankAccountHolder": "Bank account holder",
+      "bankStatementPendingValidation": "Bank statement pending validation:",
+      "bic": "BIC",
+      "iban": "IBAN",
+      "nonGuaranteedInstallmentPlansDeferredPaymentsOrPaymentRequests": "(non-guaranteed installment plans, deferred payments or payment requests).",
+      "oneOrSeveralNonGuaranteedInstallmentPlansAndOrDeferredPaymentsAreStillPending": "One or several non-guaranteed installment plans and/or deferred payments are still pending.",
+      "oneOrSeveralOfYourPaymentsAreStillPending": "One or several of your payments are still pending",
+      "payments": "Payments",
+      "procedureCantBeStarted": "The procedure can't be started",
+      "sectionByFilteringByPaymentType": "section by filtering by payment type.",
+      "sectionOfThePortalItsValidationCanTakeUpTo3WorkingDaysFromTheSubmissionDate": "section of the portal, its validation can take up to 3 working days from the submission date.",
+      "submitABankAccountUsingThe": "Submit a bank account using the",
+      "theValidationCanTakeUpTo3WorkingDaysFromTheSubmissionDate": "The validation can take up to 3 working days from the submission date.",
+      "theyMustBeCompletedForYouToBeAbleToTerminateYourAccount": "They must be completed (paid, refunded or cancelled) for you to be able to terminate your account.",
+      "theyMustBeCompletedForYouToBeAbleToTerminateYourAccountFindThemInThe": "They must be completed (paid, refunded or cancelled) for you to be able to terminate your account. Find them in the",
+      "yourAccountMustBeLinkedToAValidBankAccountBeforeYouCanBeginTheProcess": "Your account must be linked to a valid bank account before you can begin the process."
+    },
+    "confirmationCode": {
+      "codeIsInvalid": "Incorrect code"
+    },
+    "terminationStep": {
+      "confirmAccountTermination": "Confirm account termination",
+      "pleaseConfirmThatYouAreTheAccountsAdministratorByTypingBelowThePasswordSentTo": "Please confirm that you are the account’s administrator by typing below the password sent to",
+      "rememberToCheckYourSpamsIfYouCannotFindTheEmail": "Remember to check your spams if you can’t find the email.",
+      "resend": "Resend.",
+      "theTerminationOfYourAccountIsFinal": "The termination of your account is final.",
+      "youHaventReceivedTheCode": "You haven’t received the code?",
+      "yourSubscriptionWillBeEndedAndYouWontBeAbleToReceivePaymentsAnymoreHoweverYouWillStillBeAbleToLoginToDownloadYourInvoicesOrAskForATransferOfYourBalance": "Your subscription will be ended and you won’t be able to receive payments anymore. However, you will still be able to login to download your invoices or ask for a transfer of your balance."
+    }
+  },
+  "accounting": {
+    "invoices": {
+      "payInvoices": {
+        "wrapperPayInvoicesSuccess": {
+          "Success": "Success!",
+          "findYourInvoice": "Find your invoice in your portal’s \"Accounting\" section.",
+          "invoiceBtn": "See my invoices"
+        }
+      }
+    },
+    "payInvoices": {
+      "InvoicesPanel": {
+        "backtoInvoices": "Back to \"Invoices\"",
+        "invoices": "invoices",
+        "total": "Total price"
+      }
+    },
+    "wrapperAccounting": {
+      "deviceInvoices": "Device Invoices",
+      "invoices": "Invoices",
+      "invoicesToPay": "Invoices to pay",
+      "payInvoices": "Invoices to pay",
+      "report": "Report",
+      "success": "Success!"
+    },
+    "wrapperMonthlyStatements": {
+      "download": "Download",
+      "downloadError": "Download failed. Please try again",
+      "downloadInProgress": "Your statement is downloading. Please wait a moment",
+      "myMonthlyStatements": "My monthly statements",
+      "noStatementMessage": "Statements are issued on the first day of the month.<br/>Your first statement will be available next month",
+      "paginationCount": "<0>OF {{totalStatementsCount}} STATEMENTS</0>",
+      "testModeNotAllowedMessage": "Monthly statements (.PDF) are not available in TEST mode"
+    },
+    "wrapperMyStatements": {
+      "download": "Download",
+      "myMonthlyStatements": "My monthly statements",
+      "noStatementMessage": "Statements are issued on the first day of the month.<br/>Your first statement will be available next month",
+      "testModeNotAllowedMessage": "Monthly statements (.PDF) are not available in TEST mode."
+    }
+  },
+  "activation": {
+    "return": "Return"
+  },
+  "activationActivity": {
+    "businessForecast": {
+      "description": "<0>We are required to collect these information about the economics of your business. <2></2></0>",
+      "label": "Business forecast for the next 12 months",
+      "link": "Learn more",
+      "placeholder": "100"
+    },
+    "companyRegisteredMoreThanTwoYearsAgo": {
+      "label": "Is your organization less than 2 years old?"
+    },
+    "confirm": "Confirm",
+    "costs": {
+      "label": "Costs (€) :"
+    },
+    "header": "Activity description",
+    "payplugUsage": {
+      "label": "How do you plan on using Payplug?"
+    },
+    "personalInvestment": {
+      "label": "Personal investment (€) :"
+    },
+    "radioOptions": {
+      "no": "No",
+      "yes": "Yes"
+    },
+    "turnover": {
+      "label": "Revenue (€) :"
+    }
+  },
+  "activationCompanyWrapper": {
+    "firstStep": "Getting started"
+  },
+  "activationCountry": {
+    "header": "What is your company’s country of registration ?"
+  },
+  "activationDescription": {
+    "companyDescription": "We need to know more about you in order to activate your account. This form can be filled in about 5 minutes.",
+    "companyTitle": "About your company"
+  },
+  "activationErrors": {
+    "required": "This field is required"
+  },
+  "activationInfoPro": {
+    "address1": {
+      "labelCompanyNonProfit": "Business address",
+      "labelFreeLance": "Personal address",
+      "labelListedPublic": "Address",
+      "placeholder": "Address"
+    },
+    "city": {
+      "placeholder": "City"
+    },
+    "companyName": {
+      "label": "Business name",
+      "placeholder": "My company"
+    },
+    "companyType": {
+      "label": "Business type"
+    },
+    "confirm": "Confirm",
+    "continueLater": "Save to continue later",
+    "header": "Business information",
+    "postcode": {
+      "placeholder": "Post code"
+    },
+    "registrationNumber": {
+      "label": "Registration number",
+      "placeholder": "Registration number, e.g., 98765432100001"
+    }
+  },
+  "activationSocieteInfo": {
+    "confirm": "Confirm",
+    "description1": "They enable us to retrieve some information and documents on your behalf.",
+    "description2": "To get the best results, use your SIREN/SIRET. You can also use your company’s name or you first name and last name if you are an independant.",
+    "description3": "Don't have a Registration number? Create you business in France in just a couple of minutes on <2>LegalStart.fr</2>",
+    "header": "What is your SIREN, company name?",
+    "skip": "Skip",
+    "update": "Update"
+  },
+  "apiKeys": {
+    "apiKeyItem": {
+      "activateAccount": "Activate Account",
+      "copied": "Copied",
+      "liveId": "LIVE ID",
+      "liveKey": "LIVE Key",
+      "regenerate": "Regenerate",
+      "testId": "TEST ID",
+      "testKey": "TEST Key",
+      "tooltipLive": "Operations in LIVE mode will generate real transactions.",
+      "tooltipTest": "Operations in TEST mode are simulations and will not generate real transactions.",
+      "youMustActivateYourAccount": "You must activate your account"
+    },
+    "apiKeyPanel": {
+      "apiKey": "API Key",
+      "appInstalledSuccess": "The Payplug App has been downloaded on your Shopify store. You can now copy and paste those keys on your Shopify Back Office.",
+      "downloadPayPlugApp": "Download PayPlug App",
+      "modulesDescription": "You don’t need to copy and paste API keys to connect your PayPlug account to PrestaShop, Magento, WooCommerce. To connect your PayPlug account enter your PayPlug email and password in the back office of your e-commerce platform.",
+      "publishableKey": "Publishable Key",
+      "secretKey": "Secret Key",
+      "shopifyKey": "Shopify Key",
+      "shopifyOneyNotAppInstalledDescription": "To access your API keys you have to download the PayPlug App in Shopify. It gives Oney access to the following clients cart informations:<1><0>Items quantity</0><1>Items price</1><2>Items name</2><3>Items brand</3><4>Items ID</4></1>You have to complete this setup to receive your clients payments.",
+      "shopifyOneyNotOneyPricingDescription": "Secure installment payment is now available on Shopify. It allows your clients to pay their orders in 3 or 4 installments (within 30 days between them). The payment is guaranteed and you will receive the full amount as soon as the order is made. If you are interested by Oney, don’t hesitate to reach out to us.",
+      "shopifyXOney": "Shopify x Oney",
+      "shopifyXOneyKey": "Shopify x Oney Key"
+    },
+    "apiKeyRegenModal": {
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "errorExpiryDelay": "Enter a value between 1 and 100",
+      "revokeDelayed": "Let the old key work for another <2></2> hours",
+      "revokeDelayedDescription": "The old key will still work during that time",
+      "revokeImmediately": "Revoke immediately",
+      "revokeImmediatelyDescription": "You will no longer be able to accept payments with the old key",
+      "title": "What do you want to do with the old key?"
+    },
+    "commons": {
+      "apiDescription": "For an integration via the PayPlug API, simply enter the keys displayed below.",
+      "apiLabel": "API",
+      "modulesDescription": "To connect your PayPlug account to PrestaShop, Magento, WooCommerce, enter your PayPlug email and password in the back office of your e-commerce platform.",
+      "shopifyDescription": "To connect the PayPlug payment gateway to your Shopify store, enter the keys displayed below.",
+      "shopifyOneyDescription": "To connect the alternative payment gateway “PayPlug - paiement en 3 ou 4 fois avec Oney” to your Shopify store, enter the keys displayed below."
+    },
+    "linkAccount": {
+      "cancel": "Cancel",
+      "cancelModalDescription": "In order to correctly set up your Shopify account and the alternative payment method Oney, you need to link your Shopify account to your PayPlug account. Please, redo the last action.",
+      "confirm": "Confirm"
+    },
+    "shopifyHeader": {
+      "title": "Install and turn on PayPlug payment app to receive your first payments on Shopify"
+    },
+    "shopifyInstallationNotStartedPanel": {
+      "cta": "Connect to Shopify",
+      "installationStatus": "Installation not started",
+      "nextStep": "Go to your Shopify Back Office to install and activate PayPlug payment app"
+    },
+    "shopifyInstallationSuccessModal": {
+      "appIsNowInstalled": "PayPlug payment app is installed",
+      "backOfficeRedirection": "Redirection to Shopify to activate your app in",
+      "installationSuccess": "Successful installation"
+    },
+    "shopifyInvalidOfferModal": {
+      "cta": "Change plan",
+      "installationFeedback": "Your PayPlug offer is not compatible",
+      "installationStatus": "Successful installation",
+      "nextStep": "When your offer is compatible, just activate PayPlug payment app on your Shopify Back Office"
+    },
+    "shopifyInvalidOfferPanel": {
+      "cta": "Change plan",
+      "installationFeedback": "Your PayPlug offer is not compatible",
+      "installationStatus": "Successful installation",
+      "nextStep": "When your offer is compatible, just activate PayPlug payment app on your Shopify Back Office"
+    },
+    "shopifyNotActivatedModal": {
+      "cta": "Check your account submission status",
+      "installationFeedback": "Your PayPlug account is not activated yet",
+      "installationStatus": "Successful installation",
+      "nextStep": "When your account is activated, just activate PayPlug payment app on your Shopify Back Office"
+    },
+    "shopifyNotActivatedPanel": {
+      "cta": "Check your account submission status",
+      "installationFeedback": "Your PayPlug account is not activated yet",
+      "installationStatus": "Successful installation",
+      "nextStep": "When your account is activated, just activate PayPlug payment app on your Shopify Back Office"
+    },
+    "shopifySuccessfulInstallationPanel": {
+      "cta": "Connect to Shopify",
+      "installationFeedback": "PayPlug payment app is installed",
+      "installationStatus": "Successful installation",
+      "nextStep": "Go to your Shopify Back Office to activate PayPlug payment app"
+    },
+    "wrapperApiKeys": {
+      "storeSetup": "Store setup"
+    }
+  },
+  "automaticTransfer": {
+    "automaticTransfer": "Automatic transfers",
+    "daily": "Daily",
+    "edit": "Edit",
+    "inactive": "Inactive",
+    "monthly": "Monthly",
+    "weekly": "Weekly"
+  },
+  "bankAccount": {
+    "bankAccount": {
+      "addBankAccount": "Add Bank Account",
+      "allowedFileType": "The file must be a PDF, JPG or PNG",
+      "anErrorOccurredPleaseTryAgain": "An error occurred, please try again",
+      "articleLink": "the following article",
+      "bankAccount": "Bank account",
+      "bankAccountOwner": "Bank account holder",
+      "bankAccountSuccessfullyUpdated": "Your new bank account was successfully submitted",
+      "bankStatement": "Bank statement",
+      "bankStatementRequired": "Please upload a bank statement document",
+      "bic": "BIC",
+      "bicNotValid": "The BIC code is not valid",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "confirmSubmitModal": "Are you sure? No new transfers will be performed until the new bank transfer is reviewed and validated. This can take up to 7 working hours.",
+      "fileSizeLimit": "The file must be of 10MB maximum",
+      "iban": "IBAN",
+      "ibanNotValid": "The IBAN is not valid",
+      "load": "Load",
+      "noBankAccount": "You don't have a bank account associated to your PayPlug account.",
+      "replace": "Replace",
+      "replaceBankAccount": "Replace Bank Account",
+      "requiredField": "This field is required",
+      "submitBankAccountForm": "Request bank account change",
+      "warning": "WARNING:",
+      "warningChangeBankAccount": "The bank account holder's name must be strictly identical to the one indicated on the bank statement to avoid issues in bank transfers. If your company type has changed, please consult"
+    }
+  },
+  "bankTransferModal": {
+    "error": "An error occurred, please try again"
+  },
+  "basket": {
+    "paymentSection": {
+      "emptyBasket": "Your Cart is empty",
+      "mustBeActivated": "Your account must be activated for you to pay your terminal(s). The validation shouldn’t take more than 2 business days.",
+      "payBtn": "pay",
+      "payment": "Payment",
+      "paymentError": "The transaction could not be completed, please try again.",
+      "paymentProcessing": "Processing your payment",
+      "pendingActivation": "Pending activation",
+      "useAddTerminal": "Use \"Add a terminal\" to order a terminal."
+    },
+    "terminal": {
+      "deleteTerminal": "delete",
+      "shippingAddress": "Shipping address:"
+    },
+    "wrapperTerminalsBasket": {
+      "addTermBtn": "+ Add a terminal",
+      "basketLimit": "Max cart amount reached",
+      "deleteTerminal": "delete",
+      "emptyBasket": "Your cart is empty",
+      "goSeeFleetBtn": "See My Fleet",
+      "noTerminals": "No Terminals",
+      "severalTerm": "terminals",
+      "shippingAddress": "Shipping address:",
+      "singleTerm": "terminal",
+      "subTitle": "Terminals to pay",
+      "terms": "{{basketItemsNbr}} terminal",
+      "terms_plural": "{{basketItemsNbr}} terminals",
+      "title": "My cart"
+    }
+  },
+  "clipboard": {
+    "copied": "copied"
+  },
+  "common": {
+    "country": "Country",
+    "no": "no",
+    "yes": "yes"
+  },
+  "configuration": {
+    "oney": {
+      "additionalInformation": {
+        "additionalInformation": "Further information",
+        "back": "Back",
+        "brandNameDisplayedToYourCustomers": "Trade name",
+        "continue": "Submit",
+        "eCommerceWebsiteToUseWithOney": "E-commerce website to use with PayLater",
+        "enterSIRET": "Your SIRET",
+        "erreurPleaseSelectTheWebsiteYouWouldLikeToUseOneyWith": "Please choose the site on which you would like to use PayLater",
+        "erreurSiretMustBe14Characters": "Your SIRET seems incorrect, please check that the numbers completed are identical to those entered on your KBIS.",
+        "erreurTheBrandNameIsMandatoryToRegisterYourApplication": "The commercial name is essential to register your request",
+        "erreurWeHaveAlreadyMadeARequestForThatSiret": "We have already created a request for this SIRET. Submit your request with a new SIRET or contact your account manager or our support team.",
+        "erreurYourSiretIsMandatoryToRegisterYourApplication": "Your SIRET is essential to register your application.",
+        "erreurYourSiretSeemsToBeIncorrect": "The last 5 digits of your SIRET are incorrect. Please check that the number is the one printed on your KBIS.",
+        "itWillBeDisplayedOn": "It will be displayed on your payment page and in emails sent to your customers.",
+        "lastDigitsOfYourSiretNumber": "Enter the last 5 digits of your SIRET",
+        "pleaseEnterSiret": "Please enter your SIRET number",
+        "select": "Select...",
+        "severalECommerceWebsites": "Several e-commerce sites seem linked to your PayPlug account but PayLater can only be requested for one of them. Learn more.",
+        "weNeedAdditionalInformationToCompleteAndSubmitYourApplication": "We need some information to process your request.",
+        "youSiretNumberCanBeFoundOnYourKbis": "You SIRET number is available on your KBIS."
+      },
+      "eligibilityChecklist": {
+        "": "I certify that I accept the<1>Oney's T&Cs</1>, have read the mandatory<3>training</3>and have read the<5>mandatory information</5>that will be added to my T&Cs before starting to use Oney.",
+        "3x4x": "Your PayLater activation request",
+        "applyForAccessTo3X4XGuaranteedOneyPayment": "Apply for access to 3x, 4x guaranteed Oney payment",
+        "becauseOfTheRisks": "Because of the risks involved with guaranteeing the instalments of 3x, 4x Oney payments, <1>we are required to review the applicant's situation before granting access to the feature.</1> This shouldn't take more than two business days. Your information will then be sent to Oney for registration after which we will be able to start the configuration process which should, in turn, only take a few open days. You will then be able to <3>add Oney to your shop</3>.",
+        "businessToConsumer": "You certify that your business is intended for individuals.",
+        "cguOney": "You accept the<1>Oney Terms and Conditions</1>",
+        "compatibleModulesList": "Consult <1>here</1> the list of our compatible modules.",
+        "continue": "Continue",
+        "eligibilityChecklist": "Eligibility checklist",
+        "no": "No",
+        "payplugApi": "PayPlug API",
+        "physicalGoods": "You only sell physical products.",
+        "privateCustomer": "Validation from our partner Oney is necessary to allow you to offer your customers the benefit of PayLater. Please confirm the following information:",
+        "procedure": "I only sell physical products (no services or virtual goods).",
+        "select": "Select...",
+        "selectTheOneyCompatibleCmsYouUse": "Select your CMS.",
+        "sendRequest": "Send request",
+        "termsandconditions": "By checking this box, you certify that you accept <1>Oney's Terms and Conditions</1>, that you have read the <3>training</3> and that you added the <5>legal notices</5> to your T&Cs.",
+        "trainingSupport": "You are aware of the <2>Training Support</2>",
+        "weNeedThisInformationForTheConfigurationOfYourPayPlugAccount": "Consult here the list of our compatible modules.",
+        "weNeedThisInformationForTheConfigurationOfYourPayPlugAccount                  ": "We need this information for the configuration of your PayPlug account.",
+        "yes": "Yes",
+        "youDontSellAdultProducts": "You don't sell adult products (alcool, e-cigarettes, sex, drugs, weapons ...).",
+        "youMostlyServePrivateCustomers": "You mostly serve private customers (Oney doesn't accept business cards).",
+        "youOnlySellPhysicalGoods": "You only sell physical goods (no services or virtual goods).",
+        "youUseAnOfficialPayPlugModuleThatSupportsOneyOrACustomIntegrationBasedOnOurPublicApi": "You use an <1>official PayPlug module</1> that supports Oney or a custom integration based on our <3>public API>/3>.",
+        "youUseOurShopifyModule": "You use our Shopify module.",
+        "yourCompanyIsNotInvolvedInAnyProcedure": "Your company is not involved in any procedure (liquidation ...).",
+        "yourRequestTo": "<0><0>Your request to use guaranteed split payment will be reviewed</0>by our teams, you can follow your request from the portal.</0>"
+      },
+      "followOneyApplication": {
+        "applicationApprovedAndSentToOney": "Application approved and sent to Oney",
+        "applicationStatus": "Application status",
+        "asYourOneyPaymentsWillBeGuaranteed": "Our teams take note of the information shared.\nYou will receive an e-mail informing you of the status of your request in the next few days. \nUntil then, you can consult the list of brands who already offer their customers the 3x 4x Oney solution.",
+        "becauseOfTheRisksInvolvedWith": "Because of the risks involved with guaranteeing the installments of 3x, 4x Oney payments, we are required to review the applicant's situation before granting access to the feature. This shouldn't take more than two business days.",
+        "configurationInProgress": "Configuration in progress",
+        "followYourRequest": "Follow your request",
+        "ourTeamExaminesYourRequest": "Thank you, we have received your request.",
+        "ourTeamIsReviewingYourApplication": "Our team is reviewing your application",
+        "ourTeamTakeNoteOfTheInformation": "Our teams take note of the information shared.<br/>You will receive an e-mail informing you of the status of your request in the next few days.<br/>Until then, you can consult <6>the list of brands</6> who already offer their customers the 3x 4x Oney solution.",
+        "ourTeamsTakeNote": "Our teams take note of the information shared.<br/>You will receive an e-mail informing you of the status of your request in the next few days.<br/><4>Until then, you can consult <1>the list of brands</1> who already offer their customers the PayLater solution.</4>",
+        "ourTeamsTakeNoteOf": "Our teams take note of the information shared.<br/>You will receive an e-mail informing you of the status of your request in the next few days.<br/><4>Until then, you can consult<1>the list of brands</1>who already offer their customers the 3x 4x Oney solution.</4>",
+        "requestValidatedAndBeingApproved": "Request validated and being approved",
+        "requestbeingExamined": "Request being examined",
+        "reviewingApplication": "Reviewing application",
+        "weAreConfiguringYourEnvironment": "We are configuring your environment",
+        "weAreConfiguringYourPayPlugAccount": "We are configuring your PayPlug account, you will soon be able to add Oney to your shop’s payment methods!",
+        "yourApplicationHasBeenApproved": "Your application has been approved! Your details have now been sent to Oney who will register you as a user of the service. We should soon be able to start the configuration process on our end.",
+        "yourRequestHasBeenValidated": "PayLater: Your request for has been accepted !",
+        "yourRequestIsValidatedAndBeingConfigured": "Your request is validated and being configured"
+      },
+      "oneyActivated": {
+        "": "You have the guaranteed split payment solution that will help you increase your average cart!",
+        "contactOurSupportTeam": "Contact our support team.",
+        "iAmUsingAPayPlugModule": "PayPlug module",
+        "iAmUsingPayPlugApi": "PayPlug API",
+        "needAssistance": "Need help?",
+        "oneyIsActivated": "The PayLater is now activated.",
+        "restartOneyRequest": "Request PayLater activation",
+        "youHaveThe": "To display the PayLater method on your store, select your type of integration and follow the configuration instructions. No further action is required on your PayPlug portal."
+      },
+      "oneyFileActivated": {
+        "": "\"The customer hereby accepts Oney's legal notices available here: <2>https://www.payplug.com/hubfs/payplug-oney/cgv.pdf\"</2>",
+        "activateOney": "Activate PayLater",
+        "activateOneyInBackoffice": "<0>Activate Oney in the backoffice of my site</0>or finalise<2>the integration of Oney with the PayPlug public API</2>",
+        "addFollowingLegalNotices": "Please add the legal notices of our partner Oney to your store.",
+        "addGuaranteedPayment": "In order to add the guaranteed payment 3X, 4X to your store ...",
+        "addOneyToYourShop": "Add Oney to your shop",
+        "contactOurSupportTeam": "Contact our support team.",
+        "copyAndPaste": "Copy and paste the Oney T&Cs into the T&Cs of your online store :<br/>3X, 4X with charge : \"The Client hereby accepts the Oney legal notices available<3>here</3>\"",
+        "copyIcon": "Copy",
+        "copyTooltip": "Copy",
+        "customerAcceptsOneyLegalNotices": "The customer hereby accepts Oney's legal notices available here:",
+        "followOurConfigurationGuidesAndAddOneyToYourShopInAFewSimpleSteps": "Follow our configuration guides and add Oney to your shop in a few simple steps.",
+        "here": "here.",
+        "iAmUsingAPayPlugModule": "I am using a PayPlug module",
+        "iAmUsingPayPlugApi": "I am using PayPlug API",
+        "iHaveInstalledOney": "I have installed Oney",
+        "illInstallOneyLater": "I will install Oney later",
+        "needHelp": "Need help?",
+        "oneyGTCSCertification": "I certify that I have copied and pasted the Oney GTCS on my online store.",
+        "theClientHereby": "The client hereby accept the Oney legal notices available",
+        "youAreReady": "You are ready to add Oney to your store",
+        "youCanAlsoFind": "You can also find here <1>Oney's Terms and Conditions</1>, the<3>training</3> and the <5>legal notices</5>."
+      },
+      "oneyFileRejectedOrDeactivated": {
+        "afterAThorough": "Based on a thorough review of the information you have shared with us, your activity does not meet the necessary criteria to qualify for PayLater.",
+        "findOn": "In the event of a change of situation, you can renew your request. Find on",
+        "oneyPaymentFeatureCannotBeUsedWithYourShop": "Following a careful review of your situation, we are sorry to inform you that the 3x, 4x, Oney payment feature cannot be used with your shop. Find more details about the access restriction of this feature on",
+        "oneyPaymentFeatureCannotBeUsedWithYourShopAnymore": "Following a careful review of your situation, we are sorry to inform you that the 3x, 4x, Oney payment feature cannot be used with your shop anymore. Find more details about the access restriction of this feature on",
+        "theDetailsOf": "the details of the conditions of access to this feature.",
+        "thisPage": "this page",
+        "weAreUnfortunatelyNot": "We are unfortunately not in a position to grant you access to the 3x, 4x Oney payment",
+        "weAreUnfortunatelyNotAnymore": "We are unfortunately not in a position to grant you access to the 3x, 4x Oney payment anymore",
+        "weCannotFollow": "PayLater: Your request has been declined.",
+        "youCanKeepOnUsingTheRestOfOurFeaturesWithoutRestrictions": "You can keep on using the rest of our features without restrictions.",
+        "youCanNoLonger": "You can no longer offer PayLater",
+        "yourOneyGuaranteed": "The PayLater has been deactivated. If you need assistance contact our support team ."
+      },
+      "oneyFileStatusScreen": {
+        "addOneyToYourShop": "Add Oney to your shop",
+        "addOneyToYourStore": "Add Oney to your store"
+      },
+      "privateCustomer": "The activation of the functionality in your store requires validation from our partner Oney. Please confirm the following information:",
+      "requestOney": {
+        "applyForPayLater": "Apply for PayLater",
+        "certifyThatYour": "Certify that your site is hosted on a",
+        "changeMyOffer": "Change offer",
+        "cmsForWhich": "CMS for which Oney is available",
+        "findHere": "Find here",
+        "findOutMore": "Find out more",
+        "increaseYourAverage": "Increase your average ticket with the guaranteed payment 3x, 4x Oney",
+        "increaseYourAverageBasketAmount": "Offer your customers to pay in 3 or 4 instalments and increase your average basket. Our partner Oney takes care of fraud and unpaid bills.",
+        "learnMore": "Learn more",
+        "offer3X4XGuaranteedOneyPayment": "Request the PayLater in one click",
+        "orThatYou": "or that you are using API integration.",
+        "receiveFullPayments": "Receive full payments at the time of purchase with the guaranteed payment in 3X, 4X, the recovery of monthly payments is managed by us through our partner Oney.",
+        "startAnApplication": "Apply for PayLater",
+        "theListOfOurModulesSupportingThe3X4XGuaranteedOney": "the list of our modules supporting the PayLater.",
+        "yourOfferDoes": "Your current offer does not include guaranteed 3X, 4X payment. To request its activation, you must first choose the Pro or Premium offer."
+      }
+    },
+    "paylater": {
+      "paylaterActivated": {
+        "activateOnCMS": "Finish the activation on your CMS",
+        "contactSupportForShopifyPaylater": "To allow your customers to pay for their purchases in 3 or 4 instalments on your Shopify store, contact our support team. They will send you the Oney payment apps installation links directly",
+        "goHere": "Go here",
+        "goToCMSBO": "To offer PayLater to your clients on Magento, WooCommerce, Sylius or PrestaShop, go directly to your CMS’s back office and activate the functionality",
+        "install3xWithFees": "Install payments in 3x with fees",
+        "install3xWithoutFees": "Install payments in 3x without fees",
+        "install4xWithFees": "Install payments in 4x with fees",
+        "install4xWithoutFees": "Install payments in 4x without fees",
+        "installPaylaterShopify": "To install PayLater on your Shopify shop, choose the payment option with or without fees for your clients and then install the two instalments",
+        "needHelp": "Need Help? We answer your questions here",
+        "noFurtherAction": "No further action is required on your PayPlug portal",
+        "or": "or",
+        "paylaterIsActivated": "The PayLater is now activated",
+        "paylaterWithFees": "PayLater with fees",
+        "paylaterWithoutFees": "PayLater without fees",
+        "toDisplayPaylater": "To display the 3x 4x Oney payment method on your store, select your type of integration and follow the configuration instructions",
+        "useShopify": "Use Shopify",
+        "usingAPI": "PayLater integration using PayPlug API"
+      }
+    }
+  },
+  "embedProductButtonModal": {
+    "buy": "Buy"
+  },
+  "firstSteps": {
+    "activationSteps": {
+      "accountActivation": "Account activation",
+      "addYourBankAccount": "Add your bank account",
+      "allTheAboveStepsMustBeCompleted": "All the above steps must be completed",
+      "applicationReceived": "Application received !",
+      "chooseYourPlan": "Choose your plan",
+      "completeMyApplication": "Complete my application",
+      "congratulationsYourAccountHasBeenActivated": "Congratulations! Your account has been activated.",
+      "fillOutTheFormIn5Minutes": "Fill out the form in 5 minutes",
+      "findTheRightSolutionForYourBusiness": "Find the right solution for your business",
+      "generalTermsAndConditionsOfSales": "General Terms and Conditions of Sales",
+      "iAcceptThe": "I accept the",
+      "idRegistrationDocument": "(ID, registration document)",
+      "ok": "Ok",
+      "onceTheseStepsAreCompletedYouWillBeAbleToReceivePayments": "Once these steps are completed you will be able to receive payments!",
+      "orderYourPaymentTerminal": "Order your payment terminal",
+      "soThatWeGetInformedAboutYourCompany": "So that we get informed about your company",
+      "submit": "Submit",
+      "summaryOfApplicableFees": "Summary of applicable fees",
+      "toTransferTheFundsToYourAccount": "To transfer the funds to your account",
+      "uploadYourDocuments": "Upload your documents",
+      "weNeedAdditionalInformationToActivateYourAccount": "We need additional information to activate your account.",
+      "weWillContactYouWithin4WorkingDays": "We will contact you within 4 working days for further information regarding the PayLater activation.",
+      "youCanNowStartAcceptingPayments": "You can now start accepting payments.",
+      "youWillReceiveAnAnswerInTheNextTwoWorkingDays": "You will receive an answer in the next two working days",
+      "youWillReceiveAnAnswerInTheNextTwoWorkingDaysInTheMeantimeYouCanStartConfigureYourPayPlugEnvironment": "You will receive an answer in the next two working days. In the meantime you can start configure your PayPlug environment.",
+      "youWillReceiveAnAnswerInTheNextTwoWorkingDaysInTheMeantimeYouCanStartConfigureYourPayPlugEnvironmentAnd": "You will receive an answer in the next two working days. In the meantime you can start configure your PayPlug environment and",
+      "yourActivationRequestIsDone100OnlineAndSecure": "Your activation request is done 100% online and secure.",
+      "yourApplicationIsIncomplete": "Your application is incomplete",
+      "yourApplicationIsUnderReview": "Your application is under review...",
+      "yourCustomPlan": "Your custom plan"
+    },
+    "configurationSteps": {
+      "3X4XOneyGuaranteedPayment": "PayLater",
+      "addingYourLogoAndYourColours": "Adding your logo and your colours",
+      "andIncreaseYourAverageBasket": "And increase your average basket",
+      "applyForThe3X4XOneyGuaranteedPayment": "Apply for the 3x, 4x Oney guaranteed payment",
+      "configurationOfYourPlatform": "Configuration of your platform",
+      "configureThe3DSecure": "Configure the 3-D Secure",
+      "configureThe3X4XOneyPayment": "Configure the PayLater payment",
+      "followUpOnYourApplication": "Follow up on your application",
+      "installPayPlugToYourSite": "Install PayPlug to your site",
+      "leverForYourPerformance": "The 3X, 4X as a lever for your performance",
+      "orderYourTerminal": "Order your terminal",
+      "personalizeYourPaymentPage": "Personalize your payment page",
+      "receiveYourFirstPayment": "Receive your first payment",
+      "requestPayLaterActivation": "Request PayLater activation",
+      "seeOurInstallationGuide": "See our installation guide",
+      "submitYourApplicationWithAnOfferIncludingOney": "The 3X, 4X as a lever for your performance",
+      "submitYourApplicationWithAnOfferIncludingPayLater": "submit your application with an offer including PayLater",
+      "toBenefitFromAllYourOptions": "To benefit from all your options",
+      "toCompleteThisStep": "To complete this step",
+      "toDisplayItInYourShop": "To display it in your shop",
+      "toProtectYouAgainstFraud": "To protect you against fraud",
+      "toRequestAccessToThe3X4XOneyGuaranteedPayment": "Request PayLater activation",
+      "toRequestAccessToThePayLaterFunctionality": "To request access to the PayLater functionality",
+      "youCanAlreadyDiscoverAndPersonaliseYourEnvironment": "You can already discover and personalise your environment."
+    },
+    "prestashopBnplModal": {
+      "ifYouAreNotAutomaticallyRedirected": "If you are not automatically redirected click on this",
+      "link": "link",
+      "toFinalizeInscriptionYouHaveToFillOneyInformation": "To finalize your inscription, you must now fill\nsome information requested by our Oney partner.",
+      "youWillBeRedirectedIn": "You will be redirected in:"
+    }
+  },
+  "global": {
+    "contact": "Contact",
+    "contactUrl": "https://support.payplug.com/hc/en-gb/requests/new",
+    "contactUsExclam": "Contact us !",
+    "delivery": "Delivery",
+    "email": "E-mail",
+    "help": "Help",
+    "phone": "Phone",
+    "supportSchedule": "Monday to Friday from 9.00 to 18.00",
+    "yourAccountManager": "Your account manager"
+  },
+  "integratedPayment": {
+    "cardHolder": "Card holder",
+    "cardHolderEmpty": "Required field",
+    "cardHolderInvalid": "Invalid cardholder name (min 5 char.)",
+    "cardNumber": "Card number",
+    "cardNumberEmpty": "Required field",
+    "cardNumberInvalid": "Invalid card number",
+    "cvvEmpty": "Required field",
+    "cvvInvalid": "Invalid CVV",
+    "dateEmpty": "Required field",
+    "dateInvalid": "Invalid expiration date",
+    "expirationDate": "MM/YY",
+    "securityNumber": "CVV",
+    "yourCard": "YOUR CARD"
+  },
+  "invoiceTooltip": {
+    "chargebacksFees": "Chargebacks fees",
+    "creditNotes": "Credit Notes",
+    "minimumBillingAmount": "Minimum Billing Amount",
+    "monthlyFixedAmount": "Monthly fixed amount",
+    "nextInvoice": "Next invoice",
+    "transactionFees": "Transaction Fees",
+    "vat": "VAT"
+  },
+  "learnMore": "Learn more",
+  "linkUpsell": {
+    "upgradeTo": "Upgrade To"
+  },
+  "mainSidebarItem": {
+    "Payments": "Payments",
+    "Products": "Products",
+    "Transfers": "Transfers",
+    "accounting": "Accounting",
+    "gettingStarted": "Getting started",
+    "settings": "Settings",
+    "support": "Help",
+    "terminals": "Terminals"
+  },
+  "marks3DSecure": {
+    "levelFive": "Bold profile maximising conversion by limiting 3-D Secure",
+    "levelFour": "Dynamic profile encouraging conversion with targeted 3-D Secure",
+    "levelOne": "Cautious profile maximising the use of 3-D Secure",
+    "levelThree": "Neutral profile balancing conversion and fraud prevention",
+    "levelTwo": "Conservative profile limiting the fraud risk by regularly using the 3-D Secure"
+  },
+  "modal": {
+    "errorModalContent": "An error occurred when loading the page. Please refresh to return to the portal.",
+    "errorModalTitle": "An error occurred",
+    "refreshPage": "Refresh page",
+    "return": "Return"
+  },
+  "modalChangeCountry": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "continue": "Continue",
+    "description1": "If you change the country where your company is registered, the form will be reset and the information you filled will be lost.",
+    "description2": "To change your company’s country of registration, click on continue",
+    "title": "The information you filled in will be lost"
+  },
+  "modalUpdateSocieteInfo": {
+    "description1": "If you choose another headquarter, the form will be reset and the information you filled will be lost.",
+    "description2": "To choose another headquarter, click on continue.",
+    "title": "The information you filled in will be lost"
+  },
+  "modeSelector": {
+    "testModeModal": {
+      "activateAccount": "Activate account",
+      "cancel": "Cancel",
+      "text": "You can use the portal in TEST mode only until you activate your account.",
+      "title": "Account not activated"
+    }
+  },
+  "myAccount": {
+    "commons": {
+      "association": "Non-profit",
+      "freelance": "Freelance",
+      "listedCompany": "Listed company",
+      "publicAuthority": "Public authority",
+      "society": "Company"
+    },
+    "languageForm": {
+      "language": "Language"
+    },
+    "myAccount": {
+      "accessWhenActivated": "You will have access to this information once your account is activated",
+      "accountId": "Account ID",
+      "anErrorOccurredPleaseTryAgain": "An error occurred, please try again.",
+      "business": "Business",
+      "businessAddress": "Business address",
+      "businessName": "Business name",
+      "businessType": "Business type",
+      "cancel": "Cancel",
+      "change": "Change",
+      "confirmation": "Confirmation",
+      "contactEmail": "Contact email",
+      "currentPassword": "Current Password",
+      "currentPasswordIsInvalid": "Current password is invalid.",
+      "email": "Email",
+      "invalidEmail": "Invalid email address",
+      "newPassword": "New Password",
+      "password": "Password",
+      "passwordMustContainAtLeast8Characters": "Your password must contain at least 8 characters",
+      "passwordsEnteredAreDifferent": "The passwords entered are different",
+      "phoneNumber": "Phone Number",
+      "profile": "Profile",
+      "reportAChange": "Report a change",
+      "requestAccountTermination": "Request account termination",
+      "requiredField": "This field is required",
+      "save": "Save",
+      "website": "Website",
+      "youNeedToBeTheAdministratorOfTheAccountToAskForItsTermination": "You need to be the administrator of the account to ask for its termination.",
+      "yourSettingsWasSuccessfullyModified": "Your settings were successfully modified."
+    }
+  },
+  "notifications": {
+    "myNotifications": {
+      "chargebacks": "Chargebacks",
+      "chargebacksDescription": "Receive an email for each chargeback recorded on a payment.",
+      "customerNotification": "Customer notifications",
+      "formError": "An error occurred, please try again.",
+      "formSuccess": "Your settings was successfully modified.",
+      "modalPreview": {
+        "amount": "Amount: 12.00 €",
+        "bankStatement": "Your bank statement will show",
+        "close": "Close",
+        "date": "<0>Date: <1>{{date}}</1> at <3>{{time}}</3></0>",
+        "merchant": "Merchant:",
+        "paymentConfirmation": "PAYMENT CONFIRMATION",
+        "title": "E-mail preview",
+        "transaction": "Transaction:",
+        "transactionComplete": "TRANSACTION SUCCEEDED"
+      },
+      "paymentConfirmations": "Payment confirmations",
+      "paymentConfirmationsDescription": "Send a PayPlug receipt to your customers for each payment.",
+      "preview": "Preview",
+      "refundConfirmations": "Refund confirmations",
+      "refundConfirmationsDescription": "Send a PayPlug receipt to your customers for each refund.",
+      "save": "Save",
+      "serverNotificationFailures": "Server notification failures",
+      "serverNotificationFailuresDescription": "Receive an email for each IPN that could not be delivered to your server.",
+      "successfulPayments": "Successful payments",
+      "successfulPaymentsDescription": "Receive an email for each payment you collect.",
+      "transfersRequested": "Transfers requested",
+      "transfersRequestedDescription": "Receive an email for each bank transfer request you make.",
+      "yourNotification": "Your notifications"
+    }
+  },
+  "offer": {
+    "acceptOffer": {
+      "acceptOffer": "Accept",
+      "declineOffer": "Decline",
+      "oneyCompliance": "By checking this box, you certify that you accept <1>Oney's Terms & Conditions</1>, that you have read the <3>training</3> and that you added the <6>legal notices</6> to your T&Cs."
+    },
+    "offerDetails": {
+      "HSBCWarning": "Available with your HSBC bank account",
+      "billing": "Billing",
+      "bpceClientOffer": "<0>{{bpceLabel}} clients offer</0>",
+      "bpceWarning": "Available with your Caisse d’Epargne or Banque Populaire bank account",
+      "changeOffer": "Change plan",
+      "downgradeCurrentOffer": "<0>Your current offer until {{ lastDayCurrentMonth }}</0>",
+      "downgradePendingOffer": "<0>Your new plan from {{firstDayNextMonth}} onwards</0>",
+      "freeTrialEndDate": "Free trial end date",
+      "inStoreTF": "In-store transaction fees",
+      "minimumBilling": "Minimum billing",
+      "minimumBillingStartDate": "First billed on",
+      "modifyOffer": "Modify",
+      "month": "month",
+      "monthlyFee": "Monthly fee",
+      "offerAvailableWith": "Available with your {{bpceLabel}} bank account",
+      "onlineTF": "Online transaction fees",
+      "personalisedOffer": "By default, accepting this customised offer entails the acceptance of the Starter rates displayed on <2>this page</2>. These rates only apply if you download and use <5>our complete PayPlug module</5>.",
+      "posFeeRental": "Monthly fee for POS rental",
+      "posFeesDetails": "This pricing will only take effect with the purchase of your first payment terminal.",
+      "terminalOrder": "order",
+      "terminalUpsell": "Order a terminal and take advantage of the in-store payment feature included in your offer."
+    },
+    "wrapperOffer": {
+      "notAvailable": "This offer is no longer available."
+    }
+  },
+  "panelExternalLinks": {
+    "documentation": "Documentation",
+    "documentationUrl": "https://docs.payplug.com/api/",
+    "plugins": "Plugins",
+    "pluginsUrl": "https://www.payplug.com/modules",
+    "supportCenter": "Support center",
+    "supportCenterUrl": "https://support.payplug.com/",
+    "title": "Resources"
+  },
+  "panelProductDetail": {
+    "share": "Share"
+  },
+  "payInvoices": {
+    "invoicesPanel": {
+      "invoice": "{{invoicesCount}} invoice",
+      "invoice_plural": "{{invoicesCount}} invoices",
+      "invoicePlural": "invoices",
+      "invoiceSingular": "invoice",
+      "noInvoicesToBePaid": "No invoices to be paid",
+      "total": "total price",
+      "ttc": "(ttc)"
+    }
+  },
+  "payment": {
+    "language": {
+      "en": "English",
+      "fr": "French",
+      "it": "Italian"
+    },
+    "sentBy": {
+      "email": "Email",
+      "other": "other",
+      "sms": "sms"
+    }
+  },
+  "paymentDetails": {
+    "editDescriptionModal": {
+      "Error": "An error occurred, please try again",
+      "Title": "Edit Description",
+      "cancel": "Cancel",
+      "maxLength": "Maximum 80 characters",
+      "ok": "ok"
+    },
+    "insufficientFundsModal": {
+      "Title": "Insufficient funds",
+      "body": "You must have a positive balance to refund this payment. <2>See my balance.</2>",
+      "ok": "ok"
+    },
+    "panelRows": {
+      "cardPanelRow": {
+        "business": "BUSINESS",
+        "card": "Card",
+        "consumer": "CONSUMER"
+      }
+    },
+    "panels": {
+      "PosMetadataPanel": {
+        "header": "Metadata"
+      },
+      "additionalCommentPanel": {
+        "header": "Comment from customer"
+      },
+      "askOfPaymentV1Panel": {
+        "description": "Description",
+        "edit": "Edit",
+        "header": "Payment request",
+        "permalink": "Permalink"
+      },
+      "askOfPaymentV2Panel": {
+        "description": "Description",
+        "edit": "Edit",
+        "header": "Payment request",
+        "sentBy": "Sent by"
+      },
+      "attemptsPanel": {
+        "browserLabel": "Browser",
+        "failureReason": "Failure reason",
+        "header": "Payment attempts",
+        "learnMore": "Learn more",
+        "notAvailable": "Not available",
+        "numberAttempts": "Number of attempts",
+        "oneyProcessing": "Oney is currently analyzing the payer's file.",
+        "platformLabel": "Platform"
+      },
+      "customerForApiPanel": {
+        "address": "Address",
+        "email": "Email",
+        "header": "Customer",
+        "name": "Name"
+      },
+      "customerForPaymentRequestV1Panel": {
+        "email": "Email",
+        "header": "Customer"
+      },
+      "customerForPaymentRequestV2Panel": {
+        "address": "Address",
+        "email": "Email",
+        "header": "Customer",
+        "language": "Language",
+        "name": "Name",
+        "phoneNumber": "Phone number"
+      },
+      "customerPanel": {
+        "address": "Address",
+        "email": "Email",
+        "header": "Customer",
+        "name": "Name",
+        "phoneNumber": "Phone number"
+      },
+      "eCommerceProductPanel": {
+        "customData": "Custom Data",
+        "customer": "Customer #",
+        "header": "API data",
+        "ipnStatus": "IPN Status",
+        "order": "Order #"
+      },
+      "hostedPaymentApiPanel": {
+        "cancelUrl": "Cancel URL",
+        "header": "Hosted Payment",
+        "notificationResponseCode": "Notification response code",
+        "notificationUrl": "Notification URL",
+        "paidAt": "Paid at",
+        "paymentUrl": "Payment URL",
+        "returnUrl": "Return URL"
+      },
+      "installmentPlanPanel": {
+        "header": "Installment plan",
+        "installmentPlanId": "Installment plan ID"
+      },
+      "metadataPanel": {
+        "header": "Metadata"
+      },
+      "paymentPanel": {
+        "3DSecure": "Strong customer authentication",
+        "amount": "Amount",
+        "authorizedOn": "Authorized on",
+        "bancontact": "Bancontact",
+        "card": "Card",
+        "deferred": "The capture of this payment was differed.",
+        "deferredAuthorizationExpired": "The payment capture was authorized up to {{deferredAuthorized}}.",
+        "deferredAuthorized": "The payment capture is authorized up to {{deferredAuthorized}}.",
+        "header": "Payment",
+        "oneyWithoutFees": "{{oneyWithFees}} without fees",
+        "oneyX": "{{oneyWithFees}} with fees",
+        "paidOn": "Paid on",
+        "partialRefund": "This amount includes a <2>{{paymentRefunded}} partial refund</2>",
+        "partialRefundNet": "Net",
+        "partialRefundPayment": "Payment",
+        "partialRefundRefund": "Refund",
+        "paymentType": "Payment Type"
+      },
+      "posPaymentPanel": {
+        "amount": "Amount",
+        "creditHeader": "Refund by credit on card",
+        "header": "Payment"
+      },
+      "productPanel": {
+        "name": "Name",
+        "permalink": "Permalink",
+        "product": "product",
+        "productSold": "Sold once",
+        "productSold_plural": "Sold {{productSoldCounter}} times"
+      },
+      "tooltip": {
+        "partialRefundPayment": "Payment"
+      },
+      "tooltips": {
+        "partialRefundNet": "Net",
+        "partialRefundRefund": "Refund"
+      }
+    },
+    "receiptModal": {
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "emailInvalid": "Invalid E-mail address",
+      "error": "An error occurred, please try again",
+      "language": "Language",
+      "productDescription": "Product description",
+      "receiver": "Recipient",
+      "receiverPlaceholder": "e-mail address",
+      "receiverRequired": "This field is required",
+      "title": "Send a payment receipt to your customer"
+    },
+    "refundConfirmationModal": {
+      "Title": "Refund your customer",
+      "cancel": "Cancel",
+      "ok": "Confirm",
+      "refundError": "An error occurred, please try again",
+      "refundQuestion": "Are you sure you want to initiate a {{refundAmount}} refund ?"
+    },
+    "refundModal": {
+      "Title": "Refund your customer",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "customerReceipt": "Send a receipt by e-mail to the customer (optional)",
+      "email": "Email address",
+      "emailInvalid": "Invalid E-mail address",
+      "english": "English",
+      "french": "French",
+      "fullRefund": "Full Refund",
+      "fullRefundImpossible": "<0>You can only refund {{ refundAmount }}.</0> <1>See my balance.</1>",
+      "invalidAmount": "Invalid amount",
+      "italian": "Italian",
+      "languageLabel": "Language",
+      "maxAmount": "Maximum amount",
+      "minAmount": "Refunds cannot be under",
+      "oneyNotRefundable": "The refund can be made from {{oneyRefundableDate}}.",
+      "partialRefund": "Partial refund (€)",
+      "partialRefundPlaceholder": "Amount to refund",
+      "refundAfter180": "Refunding a payment after 180 days is not possible. If you really need to do so, Other solutions exist.<1>Learn more</1>",
+      "required": "Please type in the amount to refund",
+      "seeBalance": "See my balance.",
+      "shopifyRefund": "Refund this payment on your Shopify back office.",
+      "warning": "You are in TEST mode. This transaction was a test and this refund will only be a simulation."
+    },
+    "wrapperPaymentDetails": {
+      "headerCancelBtn": "Cancel",
+      "headerRefundBtn": "Refund",
+      "headerTitle": "Payments",
+      "mobileBackBtn": "Back to history",
+      "partialRefund": "This amount includes a <2>{{paymentRefunded}} partial refund</2>",
+      "productSold": "Sold {{productSoldCounter}} times"
+    },
+    "wrapperPosPaymentDetails": {
+      "headerCancelBtn": "Cancel",
+      "headerReceiptBtn": "Customer receipt",
+      "headerRefundBtn": "Refund",
+      "headerTitle": "Payments POS",
+      "mobileBackBtn": "Back to history"
+    }
+  },
+  "paymentPage": {
+    "wrapperPaymentPage": {
+      "customize": "customize",
+      "customizePaymentForm": "<0>Customize colors, texts from you payment form. <2>Learn more.</2></0>",
+      "form": "Payment page form"
+    }
+  },
+  "payments": {
+    "demandPaymentModal": {
+      "email": {
+        "messageWithDescAndUrl": "Click on the following link to access the secured payment page ({{desc}}) : {{url}}",
+        "messageWithUrl": "Click on the following link to access the secured payment page {{url}}",
+        "paymentRequest": "Payment request"
+      },
+      "footer": {
+        "cancel": "Cancel",
+        "send": "Send"
+      },
+      "form": {
+        "Mobile": "Mobile Number",
+        "amount": "Amount",
+        "amountValidation": {
+          "invalid": "The amount is not valid",
+          "max": "The maximum amount is",
+          "min": "The minimum amount is"
+        },
+        "description": "Description",
+        "descriptionPlaceholder": "The description is optional",
+        "email": "Email",
+        "emailIsInvalid": "This email address is invalid.",
+        "emailIsMandatory": "The mail is mandatory",
+        "emailPlaceholder": "Email",
+        "language": "Language",
+        "mobileNumberIsInvalid": "This mobile number is invalid.",
+        "receiver": "Receiver",
+        "receiverEmail": "Email",
+        "receiverMobile": "Mobile Number",
+        "recipientIsInvalid": "This recipient is invalid.",
+        "sendFromEmailClient": "Send from my own email application (Outlook, Gmail…)"
+      },
+      "header": {
+        "aPaymentRequestIsALinkToASecuredPayPlugPaymentPageSentToYourCustomerViaEmailOrTextMessage": "A payment request is a link to a secured PayPlug payment page sent to your customer via email or text message.",
+        "aPaymentRequestIsALinkToASecuredPayPlugPaymentPageSentToYourCustomerViaEmailOrTextMessage\n": "A payment request is a link to a secured PayPlug payment page sent to your customer via email or text message.\n",
+        "sandboxWarning": "You are in TEST mode. This payment request is a simulation and will not generate a real payment.",
+        "sendAPaymentRequest": "Send a payment request"
+      }
+    },
+    "failureMessage": {
+      "3DFailed": "The 3D Secure authentication request has failed.",
+      "bankDeclined": "The customer's bank declined the payment.",
+      "cardDataIncorrect": "The card data is not correct (card number, expiry date or CVV).",
+      "cardNumberDontMatch": "The card number does not match with the selected brand.",
+      "couldNotComplete3ds": "The customer's bank could not complete 3DS authentication.",
+      "fraudSuspicion": "The payment is suspected to be a fraud (e.g. payment with a stolen card).",
+      "notAttempted": "The customer has not tried to pay and left the payment page.",
+      "notAvailable": "Not Available",
+      "notSupported": "The payment method is not supported (e.g. e-carte bleue).",
+      "oneyRefuse": "Oney refused the customer's file.",
+      "paymentCanceled": "The payment was canceled by the customer.",
+      "reachLimit": "The card has reached its transaction limit.",
+      "strongAuth": "Strong customer authentication required by the issuer.",
+      "technicalError": "Technical error while processing the payment.",
+      "transactionAborted": "You have aborted the transaction."
+    },
+    "onlinePayments": {
+      "amount": "Amount",
+      "card": "Card",
+      "client": "Customer",
+      "date": "Date",
+      "payment": "Payment",
+      "status": "Status"
+    },
+    "utils": {
+      "aborted": "Aborted",
+      "authorized": "Authorized",
+      "bancontact": "Bancontact",
+      "canceled": "Canceled",
+      "chargeback": "Chargeback",
+      "completed": "Completed",
+      "credit": "Credited",
+      "csvExport": "CSV export",
+      "deferred": "Deferred",
+      "emailOrSms": "E-mail / SMS",
+      "endDate": "End date",
+      "excelExport": "Excel export",
+      "expired": "Expired",
+      "failed": "Failed",
+      "installOnMyWebsite": "Install on my website",
+      "installPayPlugOnYourWebsiteOrClickOnRequestAPaymentToAcceptYourFirstPayment": "Install PayPlug on your website or click on 'Request a payment' to accept your first payment",
+      "instant": "Instant",
+      "noPayments": "No payments",
+      "notGuaranteedInstallmentPlan": "Not-guaranteed installment plan",
+      "oneClick": "One-click",
+      "oney3X4X": "Oney 3x, 4x",
+      "partiallyRefunded": "Partially refunded",
+      "paymentStatus": "Status",
+      "paymentType": "Payment",
+      "pendingPayment": "Pending Payment",
+      "requestAPayment": "Request a payment",
+      "resetFilters": "Reset filters",
+      "search": "Search...",
+      "startDate": "Start date",
+      "thisPaymentWasMadeAsPartOfADeferredPayment": "This payment was made as part of a deferred payment.",
+      "thisPaymentWasMadeAsPartOfAOneClickPaymentWithSavedCard": "This payment was made as part of a one-click payment with saved card.",
+      "thisPaymentWasMadeAsPartOfAPaymentRequest": "This payment was made as part of a payment request.",
+      "thisPaymentWasMadeAsPartOfAnInstallmentPaymentOney": "This payment was made as part of an installment payment Oney.",
+      "thisPaymentWasMadeAsPartOfAnInstallmentPlan": "This payment was made as part of an installment plan.",
+      "thisPaymentWasMadeUsingBancontact": "This payment was made using Bancontact payment method.",
+      "totallyRefunded": "Totally Refunded"
+    }
+  },
+  "payplugUsageOptions": {
+    "ecommerceWebsite": "On an e-commerce website",
+    "paymentButtons": "On a simple presentation website",
+    "paymentPos": "In store with payment terminal",
+    "paymentPosAndOnline": "Online and in store",
+    "paymentRequests": "Without a website: by sending payment requests directly via email or SMS"
+  },
+  "plan": {
+    "commons": {
+      "3DSConfigurable": "Customizable 3-D Secure",
+      "3DSProtection": "\"Smart 3D-Secure\" protection",
+      "customPlan": "Custom Plan",
+      "customizedPaymentPage": "Responsive and customized payment page",
+      "dedicatedAccountManager": "Dedicated account manager",
+      "emailAndPhoneSupport": "Email and phone support",
+      "emailSupport": "Email support",
+      "mailSmsPayment": "Email/SMS payment requests",
+      "multiUserAccess": "Multi-user access",
+      "oneClickPayment": "One-click payment",
+      "oneyEligibility": "Subject to eligibility",
+      "oneyMultiPayment": "Payment in several installments Oney",
+      "onlinePayment": "Online payment",
+      "paymentForm": "Integrated payment form",
+      "posActivation": "This offer allows you to collect in-store payments. You can purchase a terminal in the Terminals menu. See transaction fees below (\"In store\" tab).",
+      "posPayment": "In-store payment",
+      "premium": "Premium",
+      "pro": "Pro",
+      "proFeatures": "Pro features",
+      "starter": "Starter",
+      "starterFeatures": "Starter features"
+    },
+    "customOffer": {
+      "activeOffer": "Active offer",
+      "commercialOffer": "Functionalities and tailor-made offer discussed with our sales department",
+      "customOffer": "Personalized Offer",
+      "month": "month"
+    },
+    "offerChangeModal": {
+      "cancel": "Cancel",
+      "changeYourPLan": "Change your plan",
+      "confirm": "Confirm",
+      "confirmUpgradeMessage": "By clicking on Confirm you will lose your current plan pricing and features. <2>Learn More</2>",
+      "loseFeature": "Starting on you will lose your <4></4> plan pricing and features. <7>Learn More</7>",
+      "loseFeatures": "Starting on {{startingDate}} you will lose your <4>{{currentOffer}}</4> plan pricing and features. <7>Learn More</7>",
+      "lostFeatureList": "Please note that you will lose access to:",
+      "payPlugPricing": "https://www.payplug.com/pricing"
+    },
+    "offerDetails": {
+      "daysOffered": "days free trial",
+      "freeTrialLastDay": "Last free trial day",
+      "month": "month",
+      "shopifyKnowMore": "Learn more",
+      "shopifyPremium": "Premium offer is not available for Shopify",
+      "withoutEngagement": "No commitment, you can change your plan at any time"
+    },
+    "selectOfferButton": {
+      "activeOffer": "Active offer",
+      "activeOfferUntil": "Current offer, valid until",
+      "chooseThisOffer": "Choose this offer",
+      "newOfferFrom": "from",
+      "selectedOffer": "Selected offer",
+      "yourNewOffer": "Your new offer"
+    },
+    "transactionFees": {
+      "NotEurozonePricing": "Non-Eurozone Cards",
+      "businessPricing": "Business Cards",
+      "domesticPricing": "Domestic cards",
+      "eurozonePricing": "Eurozone cards",
+      "oneyPricing": "3x, 4x Oney with fees",
+      "oneyPricing3x": "3x Oney with fees",
+      "oneyPricing4x": "4x Oney with fees",
+      "onlineTab": "Online",
+      "posTab": "In store",
+      "transactionFees": "Transaction fees"
+    },
+    "wrapperPlan": {
+      "priceWithoutTax": "Prices are expressed excluding tax"
+    }
+  },
+  "posPaymentDetails": {
+    "panels": {
+      "PosMetadataPanel": {
+        "orderID": "Order ID",
+        "salesId": "sales ID"
+      },
+      "posPaymentPanel": {
+        "collectedOn": "Collected on",
+        "creditTerminalId": "Terminal ID at origin of the credit",
+        "creditedOn": "Credited on card on",
+        "paidOn": "Paid on",
+        "partialRefund": "This amount includes a <2>{{amountRefunded}} partial refund</2>",
+        "store": "Point of sale",
+        "terminalId": "Terminal ID",
+        "terminalModel": "Terminal Model"
+      }
+    }
+  },
+  "productDetail": {
+    "embedProductButtonModal": {
+      "cancel": "Cancel",
+      "copyToClipboard": "Copy to clipboard",
+      "embed": "Embed a button on my website",
+      "pasteTheFollowing": "Paste the following HTML code on your website to reveal a 'BUY' button."
+    },
+    "panelProductDetail": {
+      "address": "Address",
+      "allowComments": "Allow comments from customers",
+      "amount": "Amount",
+      "change": "Change",
+      "copyPermalink": "Copy the permalink",
+      "description": "Description",
+      "disabled": "Disabled",
+      "edit": "Edit",
+      "embed": "Embed",
+      "enabled": "Enabled",
+      "notRequired": "Not required from customer",
+      "phoneNumber": "Phone number",
+      "preview": "Preview",
+      "previewProduct": "Preview my product",
+      "product": "PRODUCT",
+      "productDetails": "Product details",
+      "quantityAvailable": "Quantity available",
+      "redirectPage": "Redirect page",
+      "required": "Required from customer",
+      "sale": "sale",
+      "sales": "sales",
+      "showPayments": "Show payments for this product",
+      "soldCount": "<0>{{soldCount}} sale</0> for a total amount of",
+      "soldCount_plural": "<0>{{soldCount}} sales</0> for a total amount of",
+      "title": "Title",
+      "unlimited": "Unlimited",
+      "yourCustomer": "Your customer will be able to choose the amount"
+    },
+    "productDetail": {
+      "panelProductDetail": {
+        "EmbedAButton": "Embed a button on my website"
+      }
+    },
+    "productStatusButton": {
+      "activate": "Activate",
+      "deactivate": "Deactivate"
+    },
+    "wrapperProductDetail": {
+      "delete": "Delete",
+      "edit": "Edit",
+      "products": "Products"
+    }
+  },
+  "productItem": {
+    "activated": "Activated",
+    "deactivated": "Deactivated",
+    "detail": "detail",
+    "free": "Free"
+  },
+  "secondarySidebar": {
+    "accounting": {
+      "creditoImposta": "",
+      "devicesInvoices": "Devices invoices",
+      "myInvoices": "Monthly invoices",
+      "myStatements": "My statements"
+    },
+    "settings": {
+      "3Dsecure": "3-D Secure",
+      "3x4xGuarantedOney": "PayLater",
+      "apiKeys": "API keys",
+      "bankAccount": "Bank account",
+      "myAccount": "My account",
+      "notifications": "Notifications",
+      "offer": "Offer",
+      "paymentPage": "Payment page",
+      "users": "Users"
+    }
+  },
+  "shopify": {
+    "linkAccount": {
+      "cancelButton": "Cancel",
+      "linkShopifyDescription": "<p>Do you want to link your Shopify store to your PayPlug account ?</p> <1>{{email}}</1>",
+      "linkShopifyTitle": "Link shopify store to your PayPlug account",
+      "validateButton": "Validate"
+    },
+    "wrapper": {
+      "merchantAlreadyHasAShop": "It seems you already linked your <1>{{shopName}}</1> Shopify account to the “PayPlug- Paiement en 3 ou 4 fois avec Oney” gateway. You can only connect one Shopify store to the gateway at once. If you need further information, don’t hesitate to reach out to us.",
+      "redirectMessage": "You will be redirected to your Shopify Back Office in a few seconds. Do not refresh the page. Please Wait."
+    }
+  },
+  "signup": {
+    "aboutYourself": {
+      "aboutYourself": "Tell us about yourself",
+      "aboutYourselfDescription": "If you have a website, a shop or both, we will be there to guide you the best we can.",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "next": "Next",
+      "phone": "Phone number",
+      "step2": "STEP 2 OF 3"
+    },
+    "company": {
+      "aboutYourBusiness": "Tell us about your business",
+      "aboutYourBusinessDescription": "We are delighted to meet you ! Before starting with PayPlug, tell us more about your project to help us understand your needs.",
+      "activity": "Activity",
+      "country": "Country",
+      "next": "Next",
+      "online_only": "I cash online",
+      "online_pos": "I cash online and in a store",
+      "pos_only": "I cash in store",
+      "step1": "STEP 1 OF 3",
+      "website": "Website"
+    },
+    "environment": {
+      "checkoutSolution": "Which checkout solution do you use?",
+      "ecommerceplatform": "Select your platform",
+      "enterMerchantPortal": "Enter the merchant portal",
+      "onPayPlug": "on PayPlug",
+      "revenueGenerated": "How much revenue do you expect to generate",
+      "setupEnvironment": "Set up your environment",
+      "setupEnvironmentDescription": "Each business is unique. Tell us about yours to help us customize your PayPlug experience.",
+      "step3": "STEP 3 OF 3"
+    },
+    "setup": {
+      "merchantPortalConfig": "Configuring your merchant portal...",
+      "platformSetup": "We are setting up your platform",
+      "testEnvironment": "Setting up the test environment..."
+    },
+    "signup": {
+      "alreadyUsingPayplug": "<0>Already using PayPlug?<1> Log in.</1></0>",
+      "getstarted": "<0><0>Get started within minutes</0>, without set up fees</0>",
+      "learnMoreAbout": "<0>Learn more about how we use<1>your data</1>.</0>",
+      "password": "Password",
+      "workEmail": "Work Email"
+    }
+  },
+  "slider3DSecure": {
+    "adjustTheSlider": "Adjust the slider to select your preferred risk threshold at which strong authentication will be requested from the issuing banks. Please note that regardless of the level selected, 3-D Secure will be automatically recommended for payments higher than <1>{{smart3dsLimit}}</1>.",
+    "conversion": "Conversion",
+    "learnMore": "Learn more.",
+    "level": "Level:",
+    "limitDescription": "Payments will be evaluated in real time by our fraud prediction technology. This analysis combined with your selected risk profile will determine whether 3-D Secure is required to complete a transaction. Adjust the cursor to select your preferred risk profile. Please note that regardless of the level selected, 3-D Secure will be automatically required for payments higher than <2>{{smart3dsLimit}}</2>.",
+    "paymentsWillBeEvaluated": "Payments will be evaluated in real time by our fraud prediction technology. This analysis combined with your selected risk profile will determine whether 3-D Secure is required to complete a transaction.",
+    "payplugWillOptimize": "PayPlug will optimize your conversion by motivating frictionless authentication recommendations when appropriate. You remain responsible in case of dispute on an accepted frictionless journey.",
+    "security": "Security",
+    "upsellDescription": "By activating our Smart 3-D Secure, cut fraud in half while drastically increasing your conversion."
+  },
+  "societeInfoList": {
+    "noHeadquarterOnList": "My headquarters is not on the list",
+    "noResults": "No results.",
+    "selectHeadquarter": "Select your headquarter",
+    "skipStep": "We were not able to find your company on the greffe’s register, please skip this step."
+  },
+  "support": {
+    "panelAccountManager": {
+      "scheduleCall": "Schedule a call"
+    },
+    "panelContact": {
+      "contactSupportCenter": "If you have any questions do not hesitate to contact us or consult our support center.",
+      "contactSupportTeam": "Contact our support team",
+      "defaultEmailSupport": "support@payplug.com",
+      "defaultPhoneSupport": "+33 1 76 34 01 55",
+      "payplugSupportTeam": "PayPlug support team"
+    },
+    "panelFaq": {
+      "3dSecure": "What is 3D-Secure?",
+      "accountMultipleWebsite": "Can I use the same PayPlug account on several websites?",
+      "addressProof": "What proof of address do we accept?",
+      "bankTransferDelay": "What are the delays to receive a bank transfer?",
+      "cancelRefundTransaction": "How do I cancel or refund a transaction?",
+      "changeBankAccount": "How do I change my bank details?",
+      "configurationLive": "How do I configure my site in LIVE mode?",
+      "customPaymentPage": "How do I customize my payment pages?",
+      "delayActivateAccount": "What is the delay to activate my account?",
+      "documentActivateAccount": "Which documents should I provide to activate my account?",
+      "faq": "Frequently asked questions",
+      "fraud": "What is Fraud?",
+      "howActivateAccount": "How do I activate my account?",
+      "identitiesPieces": "Which pieces of identification are accepted?",
+      "integrationWebsite": "How do I integrate PayPlug onto my Internet site?",
+      "mergeCompressDocuments": "How do I merge and/or compress documents?",
+      "retrieveInvoice": "How do I retrieve an invoice?",
+      "sendPaymentRequest": "How to send a payment request?",
+      "testMode": "How do I test the service ? What is TEST mode?",
+      "transferBalance": "How do I transfer my PayPlug balance to my bank account?"
+    },
+    "panelTips": {
+      "accountManagementUrl": "https://content.payplug.com/advice-account-management",
+      "getTips": "Get tips",
+      "maximizeConversion": "Get practical tips on how to maximize the conversion of your site",
+      "request": "Request"
+    }
+  },
+  "terminals": {
+    "commons": {
+      "beingPrepared": "Being prepared",
+      "collectAnywhereInYourPointOfSale": "Collect anywhere in your store.",
+      "collectBehindACounter": "Collect behind a counter.",
+      "collectOutside": "Collect outside.",
+      "deactivated": "Deactivated",
+      "delayed": "Delayed delivery",
+      "delivered": "Delivered",
+      "linkDesk5000": "https://cdn.ingenico.com/binaries/content/assets/corporate-en/library/datasheets/desk5000.pdf",
+      "linkMove5000": "https://cdn.ingenico.com/binaries/content/assets/corporate-en/library/datasheets/move5000.pdf",
+      "live": "Live",
+      "mobileEthernet": "Mobile Ethernet",
+      "mobileGPRS3G": "Mobile GPRS / 3G",
+      "pax3G": "Terminal",
+      "paxDescription": "A high-performance mobile payment terminal that accepts payments by CB, Visa, Apple Pay, Google Pay, including contactless payments.",
+      "paxS920": {
+        "description": "A mobile payment terminal that you can use anywhere in your store. For example, customers can check out without having to wait in line.",
+        "feat": {
+          "charging": "Charging base included",
+          "monthly": "No additional monthly fees",
+          "multifunction": "Operates via Wi-Fi or Ethernet (your choice)",
+          "printer": "Integrated printer",
+          "sim": "SIM card included",
+          "warranty": "24-month warranty"
+        },
+        "feature": {
+          "monthly": "No monthly fees",
+          "multifunction": "Choose between Wi-Fi, Ethernet, or 3G configuration",
+          "obligation": "Without obligation",
+          "warranty": "24-month warranty"
+        }
+      },
+      "paxWifi": "The Connected",
+      "shipped": "Shipped",
+      "stationary": "Stationary",
+      "stationaryAndPinPad": "Stationary + PinPad",
+      "waitingForPayment": "Waiting for payment",
+      "waitingForTechAssistance": "Waiting for tech. assistance"
+    },
+    "listing": {
+      "statusComponent": {
+        "waitingForPayPlugValidation": "waiting for PayPlug validation",
+        "waitingForSubmission": "Waiting for submission"
+      },
+      "terminal": {
+        "deliveryTracking": "Delivery tracking",
+        "pay": "Pay",
+        "pending": "pending",
+        "poiId": "Activation key (POI ID)",
+        "shippingAddress": "Shipping address:"
+      },
+      "terminalListing": {
+        "noPaymentTerminals": "No card payment terminal yet",
+        "order": "Order a terminal",
+        "orderAPaymentTerminal": "Order one of our ready-to-use payment terminals and collect all your payments in real time on your PayPlug account. No more daily batch collection!",
+        "yourCurrentOfferAllowYouToCollectPayments": "<0>Your current offer</0> allows you to collect payments both online and in-shop.",
+        "yourCurrentTransactionFeesWillApply": "<0>Your current transaction fees</0> will apply for both your online and card-present transactions."
+      },
+      "wrapperTerminals": {
+        "choseAnOffer": "Choose an offer",
+        "choseAnOfferBeforeOrdering": "Please choose a PayPlug offer before ordering a terminal for your point of sale",
+        "contactHere": "Contact here",
+        "contactOurComercialTeam": "Your current offer does not allow you to order more terminals. Please contact our commercial team.",
+        "noPaymentTerminals": "No payment terminals",
+        "noPermission": "Forbidden access",
+        "notVerifiedSeveralTerm": "pending terminals",
+        "notVerifiedSingleTerm": "pending terminal",
+        "orderTerminal": "Order a terminal",
+        "terminals": "My fleet",
+        "verifiedSeveralTerm": "pending terminals",
+        "verifiedSingleTerm": "pending terminal"
+      }
+    },
+    "ordering": {
+      "config": {
+        "amexCheckbox": "I have an American Express (AMEX) contract number",
+        "back": "Back",
+        "conecsCheckbox": "I have a CONECS lunch voucher contract number",
+        "goodToKnow": "<0>Good to know:</0>  If you are not ready yet, you can contact us later to give us this information.",
+        "next": "Next",
+        "paymentDefault": "Your default payment methods",
+        "paymentList": "Your payment terminal allows you to automatically accept <2>CB, Visa, MasterCard, Apple Pay, and Google Pay</2> payments, including contactless payments.",
+        "paymentOption": "Your optional payment methods",
+        "paymentOptionDescription": "If you already have electronic payment contracts that allow you to accept <2> Lunch Vouchers</2> (CONECS) or<4> American Express</4> payments for this store, please enter these contract numbers below to collect this type of payment on your new terminal. <6>Learn more</6>",
+        "title": "Setting up your payment methods"
+      },
+      "featuresComponent": {
+        "GPRS3GConnexion": "GPRS / 3G connexion",
+        "ethernetConnexionWireIncluded": "Ethernet connexion (wire included)",
+        "internetBoxRequired": "Internet box required",
+        "productDescription": "Product description",
+        "removableFromDocker20mRange": "Removable from docker (20m range)",
+        "simCardIncluded": "SIM Card (included)",
+        "wired": "Wired"
+      },
+      "inStoreTransactionFees": {
+        "NotEurozonePricing": "Non-Eurozone cards",
+        "businessPricing": "Business Cards",
+        "domesticPricing": "Domestic cards",
+        "downgradeReminder": "In-store transaction fees applied from {{startingDate}} as part of your <4></4> offer",
+        "eurozonePricing": "Eurozone cards",
+        "offerReminder": "In-store transaction fees included in your <2></2> offer"
+      },
+      "offerReminder": {
+        "downgradeReminder": "In-store transaction fees applied from {{startingDate}} as part of your <4></4> offer",
+        "reminder": "Reminder of in-store transaction fees with your <2></2> offer"
+      },
+      "terminalChoiceComponent": {
+        "chooseTerminal": "Choose this model",
+        "priceVATExcl": "{{price}} VAT excl."
+      },
+      "terminalConfirmation": {
+        "congratulationMsgCompanySaved": "Once your account is activated by our Financial security services, a secured payment link will be provided to complete your terminal settlement by credit card. Your terminal will be delivered within 72 hours after payment. Your invoice will be sent to {{email}}.",
+        "congratulationMsgCompanySaved1": "Once your account is activated by our Financial security services, a secured payment link will be provided to complete your terminal settlement by credit card.",
+        "congratulationMsgCompanySaved2": "Your terminal will be delivered within 72 hours after payment.",
+        "congratulationMsgCompanySaved3": "Your invoice will be sent to {{email}}.",
+        "congratulationMsgCompanyVerified": "A secured payment link is now available to complete your terminal settlement. Your terminal will be delivered within 72 hours after payment. Your invoice will be sent to {{email}}.",
+        "congratulationMsgCompanyVerified1": "A secured payment link is now available to complete your terminal settlement.",
+        "congratulationMsgCompanyVerified2": "Your terminal will be delivered within 72 hours after payment.",
+        "congratulationMsgCompanyVerified3": "Your invoice will be sent to {{email}}.",
+        "findYourInvoice": "Find your invoice in your portal’s accounting session a few minutes after purchase.",
+        "goToTerminalPage": "See my terminals and proceed to payment",
+        "pleaseContinueToProcessPaymentNow": "Please continue to process payment now.",
+        "seeMyTerminals": "See my terminals",
+        "yourOrderHasBeenRecorded": "Your order has been recorded !"
+      },
+      "terminalDelivery": {
+        "additionalAddress": "Additional Address",
+        "address": "address",
+        "addressPointOfSale": "Store address",
+        "back": "Back",
+        "chooseDeliveryAddress": "Please indicate your physical store address. Your terminal will be delivered to this address by default.",
+        "city": "City",
+        "deliveryAddress": "Delivery address",
+        "firstName": "Firstname",
+        "lastName": "Lastname",
+        "namePointOfSale": "Store name",
+        "newPointOfSale": "New store",
+        "next": "Next",
+        "pointOfSale": "Store",
+        "pointOfSaleName": "Store name",
+        "storeAddress": "Address of your store",
+        "toggleDeliveryAddress": "I want to use a different address for delivery.",
+        "validateOrder": "Validate order",
+        "zipCode": "Zip Code"
+      },
+      "terminalPaxS920": {
+        "chooseAnOffer": "Choose an offer to order",
+        "compatibleOffers": "See compatible offers",
+        "paxDescription": "The PAX S920 is a high-performance mobile payment terminal that accepts payments by CB, Visa, ApplePay, GooglePay, including contactless.",
+        "paxS920": "The Connected",
+        "paxS920Order": "Order",
+        "paxS920Technical": "See product description",
+        "paxS920VatExcl": "VAT excl."
+      },
+      "terminalSelected": {
+        "VATExcluded": "VAT excl.",
+        "VATIncluded": "VAT incl.",
+        "deliveryNbDays": "{{nbDays}}-day delivery",
+        "included": "INCLUDED",
+        "nbDays": "{{nbDays}} days",
+        "nbMonthWarranty": "{{nb}}-month warranty",
+        "price": "Total",
+        "priceTotal": "TOTAL",
+        "priceVAT": "VAT",
+        "severalTerm": "terminals",
+        "singleTerm": "terminal",
+        "yourSelection": "Your selection:"
+      },
+      "terminalStepperOrder": {
+        "aQuestionAboutOurPaymentOption": "A question about our card-present payment option ?",
+        "address": "Address",
+        "basket": "Cart",
+        "config": "Configuration",
+        "confirmation": "Confirmation",
+        "moreInformation": "More information",
+        "orderAPaymentTerminal": "Order a ready-to-use payment terminal and start collecting payments, as part of your current PayPlug offer.",
+        "posUrl": "https://www.payplug.com/features-in-store-payment",
+        "selection": "Selection",
+        "terminalType": "Terminal type"
+      },
+      "upsell": {
+        "chooseAnOffer": "Choose an offer to order",
+        "chooseOfferToActive": "Please choose an offer to activate this option.",
+        "inStorePayment": "https://www.payplug.com/features-in-store-payment"
+      },
+      "wrapperTerminalsOrder": {
+        "cancel": "Cancel",
+        "orderTerminal": "Order a terminal"
+      }
+    },
+    "wrapperTerminalOrderSuccess": {
+      "deliveryDelay": "Your order will be delivered within 5 working days.",
+      "findYourInvoice": "Find your invoice in a few minutes in the \"Accounting\" section.",
+      "headerBtn": "See my fleet",
+      "headerTitle": "Order a terminal",
+      "invoiceBtn": "See my invoice",
+      "readyToCollect": "You will soon be ready to collect payments!"
+    }
+  },
+  "transferFrequencyModal": {
+    "active": "Active",
+    "activeDescription": "Transfer all my balance",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "daily": "Every day",
+    "inactive": "Inactive",
+    "inactiveDescription": "All transfers will be performed manually",
+    "monthly": "Every month on the 1st",
+    "title": "Automatic transfers",
+    "weekly": "Every week on Monday"
+  },
+  "ui": {
+    "balanceHeaderElement": {
+      "accountHolder": "Account holder",
+      "amount": "Amount",
+      "amountIsRequired": "Amount is required",
+      "available": "available",
+      "availableToTransfer": "Available to transfer",
+      "balance": "Balance:",
+      "balanceDetails": "Details",
+      "bic": "BIC",
+      "cancel": "Cancel",
+      "cannotRequestTransfers": {
+        "learnMore": "Learn more."
+      },
+      "chargebacksFees": "Chargebacks fees",
+      "clickHere": "click here",
+      "confirm": "Confirm",
+      "details": "details",
+      "followingTheRecentActivationOfYourAccount": "Following the recent activation of your account, your first transfer requests will need to be checked so that the transfer is performed. This process may delay the actual transfer by a few days.",
+      "iban": "IBAN",
+      "ifYouNeedToChangeYourBankAccountInformation": "If you need to change your bank account information",
+      "invoicesPendingSettlement": "Invoices pending settlement",
+      "minimumBillingAmount": "Minimum billing amount",
+      "monthlyFixedAmount": "Monthly fixed amount",
+      "newAccount": {
+        "learnMore": "Learn more."
+      },
+      "nextInvoice": "Next invoice",
+      "noTransfersCanBeRequestedAtThisTimeBecauseYourBankAccountInformationIsCurrentlyUnderReview": "No transfers can be requested at this time because your bank account information is currently under review.",
+      "ofWhich": "of which",
+      "ok": "Ok",
+      "popoverTitle": "Balance details",
+      "reserveAmount": "Reserve amount",
+      "theMaximumAmountIs": "The maximum amount is",
+      "theMinimumAmountIs": "The minimum amount is",
+      "toTransferYourBalanceYouMustPayYourPendingInvoices": "To transfer your balance, you must pay your pending invoices",
+      "transactionFees": "Transaction fees",
+      "transferMyBalance": "Transfer my balance",
+      "transferToMyBankAccount": "Transfer to my bank account",
+      "upcomingTransfers": "Upcoming transfers",
+      "vat": "VAT",
+      "weAreRequiredToHeldFundsInAReserveToCoverAnyPotentialRefundOrChargebackThatMayOccur": "We are required to held funds in a reserve to cover any potential refund or chargeback that may occur.",
+      "youCannotRequestTransfersAtThisTime": "You cannot request transfers at this time."
+    },
+    "notifications": {
+      "accountActivatedDescription": "Your application was accepted, and you can now collect real payments <2>How to setup my site in LIVE mode?</2>",
+      "accountActivatedTitle": "Your account was activated!",
+      "accountActivationDescription": "You must activate your account to accept payments outside TEST mode.",
+      "accountActivationLink": "Activate account",
+      "accountActivationTitle": "Account activation.",
+      "accountTerminatedDescription": "Your account cannot receive payments anymore. You still have the ability to ask for transfers.",
+      "accountTerminatedTitle": "You have terminated your account.",
+      "activationDelayTitle": "Due to a sharp increase of the applications submitted, the activation processing timeframe is actually 4 business days. <2>More information</2>",
+      "activeKycIncompleteDescription": "Some documents were refused: please replace them to activate your account",
+      "activeKycIncompleteLink": "Replace my documents",
+      "appUnderReviewDescription": "We will contact you within 2 to 3 working days if we have questions regarding your application.",
+      "appUnderReviewTitle": "Your application is under review.",
+      "bankAccountIncompleteDescription": "The information added needs to be reviewed by you.",
+      "bankAccountIncompleteLink": "View details",
+      "bankAccountIncompleteTitle": "Your request to change the bank account information is incomplete.",
+      "bankAccountReviewDescription": "Once this is approved you will be able to request new transfers.",
+      "bankAccountReviewTitle": "You have recently updated your bank account information and this is currently under review.",
+      "bankAccountUpdatedDescription": "You are now able to perform transfers to your new bank account.",
+      "bankAccountUpdatedTitle": "Your bank account information has been successfully updated.",
+      "cguModal": {
+        "acceptBtn": "I accept",
+        "title": "New General Terms and Conditions"
+      },
+      "configure": "Configure",
+      "inactiveKycIncompleteDescription": "We need additional information to activate your account.",
+      "inactiveKycIncompleteLink": "View application",
+      "kycIncompleteTitle": "Your application is incomplete.",
+      "kycNeedUpdateDescription": "Some of your information or documents need to be updated.",
+      "kycNeedUpdateLink": "Update my account’s details",
+      "kycNeedUpdateTitle": "Your account’s information need an update.",
+      "learnMore": "Learn more",
+      "newContractDescription": "To review and accept the offer <2>click here</2>.",
+      "newContractTitle": "Your offer is pending.",
+      "oneyActivatedDescription": "Click on this banner to configure PayLater on your store",
+      "oneyActivatedTitle": "PayLater: Your request has been accepted!",
+      "oneyDeactivatedDescription": "The PayLater has been deactivated. If you need assistance <2>contact our support team.</2>",
+      "oneyDeactivatedTitle": "PayLater: You can no longer offer PayLater.",
+      "oneyRejectedDescription": "Click here for more information.",
+      "oneyRejectedTitle": "PayLater: Your request has been declined.",
+      "outstandingInvoice": "Outstanding invoice",
+      "pendingingInvoice": "Pending invoice",
+      "poiIdAvailableDescription": "Once you have received it, you will be able to initialize your terminal with its activation key (POI ID). <2>See my activation key (POI ID)</2>",
+      "poiIdAvailableTitle": "Your payment terminal is ready for activation!",
+      "proceedToPayment": "Proceed to payment",
+      "testModeInfo": "<0>TEST mode.</0> The data displayed below was generated in TEST mode, which simulates transactions without processing real payments. <3>Learn more</3>",
+      "youHaveOutstanding": "You have outstanding invoices. Go to the Accounting / My Invoices tab to pay them by credit card",
+      "youHavePending": "You have pending invoices. Go to the Accounting / My Invoices tab to pay them by credit card"
+    },
+    "table": {
+      "elements": "ELEMENTS",
+      "noElementFound": "No element found",
+      "of": "OF",
+      "page": "page"
+    },
+    "transactionFees": {
+      "NotEurozonePricing": "Non-Eurozone cards",
+      "bancontact": "Bancontact",
+      "businessPricing": "Business Cards",
+      "domesticPricing": "Domestic cards",
+      "eurozonePricing": "Eurozone cards",
+      "oneyCgus": "Find here <2>Oney's Terms & Conditions</2>, the <5>training</5> and the <9>legal notices</9>.",
+      "oneyPricing": "3x 4x with fees",
+      "oneyPricing3x": "3x with fees",
+      "oneyPricing3xWithout": "3x without fees",
+      "oneyPricing4x": "4x with fees",
+      "oneyPricing4xWithout": "4x without fees",
+      "oneyPricingWithout": "3x, 4x without fees"
+    }
+  },
+  "users": {
+    "deleteUserModal": {
+      "areYouSure": "Are you sure you want to delete this user?",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "delete": "Delete",
+      "globalError": "An error occurred, please try again"
+    },
+    "manageUserModal": {
+      "accountAlreadyExist": "There is already an account associated to this email address",
+      "adminRoleDetail": "Will be able to access bank account information, perform transfers and manage users.",
+      "administrator": "Administrator",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "emailAddress": "e-mail address",
+      "genericError": "Something went wrong",
+      "invalidEmail": "Email address invalid",
+      "invitationSent": "An invitation will be sent",
+      "invite": "Invite",
+      "inviteUser": "Invite user",
+      "manager": "Manager",
+      "managerRoleDetail": "Will not be able to modify bank account information, perform bank transfer and manage users. Can refund transactions.",
+      "operator": "Team member",
+      "operatorRoleDetail": "Will not be able to modify bank account information, perform bank transfer and manage users. Cannot refund transactions.",
+      "requiredField": "This field is required",
+      "upgradePremium": "Upgrade to premium",
+      "userRoleRequired": "Please select a role for the user"
+    },
+    "wrapperUsers": {
+      "addUser": "Add user",
+      "administrator": "Administrator",
+      "manager": "Manager",
+      "operator": "Team member",
+      "owner": "owner",
+      "pendingPassword": "(pending confirmation)",
+      "type": "Type",
+      "user": "User"
+    }
+  },
+  "wrapper3DSecure": {
+    "3DSecure": "Choose your 3-D Secure authentication recommendations",
+    "3DSecureDescription": "3-D Secure allows you to choose your authentication recommendations to balance conversion rate and fraud prevention",
+    "activateSmart3D": "Activate Smart 3-D Secure to target risky payments",
+    "adminThreshold": "Request 3-D Secure for all payments over {{adminThreshold3ds}}",
+    "allPayments": "Request 3-D Secure for all payments",
+    "formError": "An error occurred, please try again",
+    "formSuccess": "3-D Secure modification has been saved",
+    "introText": "Since the entry into force of PSD2, it is the customer's bank that decides whether to perform strong authentication or a frictionless journey for the customer. With PayPlug, you can issue recommendations to your customer's bank.",
+    "learnMore": "Learn more.",
+    "paymentsAboveThreshold": "Request a frictionless authentication for all payments below {{adminThreshold3ds}}",
+    "paymentsAboveThresholdAdditionalText": "All payments above {{adminThreshold3ds}} will be subject to strong customer authentication.",
+    "save": "Save",
+    "smart3ds": "Request Smart 3-D Secure",
+    "tutorialDescription": "You can choose the threshold and the triggering rules for 3-D Secure in order to protect from fraud.",
+    "tutorialTitle": "Configure the 3-D Secure",
+    "upgradePro": "Upgrade to pro",
+    "upsellFreeTrialMessage": "<0>Enjoy your <1>free 30-day trial</1> to test this feature.</0>"
+  },
+  "wrapperBankTransfer": {
+    "header": {
+      "bankTransfers": "Bank transfers"
+    },
+    "noBankTransfer": "No bank transfers",
+    "requestYourFirstTransferByClickingOnTransferMyBalance": "Request your first transfer by clicking on \"Transfer my balance\"",
+    "status": {
+      "canceled": "Canceled",
+      "pending": "Requested",
+      "processed": "Processed",
+      "sent": "Sent",
+      "withdrawn": "Withdrawn"
+    },
+    "table": {
+      "amount": "Amount",
+      "date": "Date",
+      "details": "Details",
+      "id": "Id",
+      "status": "Status"
+    }
+  },
+  "wrapperDevicesInvoices": {
+    "devicesInvoiceTable": {
+      "amount": "Amount (incl. VAT)",
+      "paid": "Paid",
+      "paidAt": "Payment date",
+      "pending": "Pending",
+      "status": "Status",
+      "toCome": "To Come"
+    },
+    "invoiceTable": {
+      "invoice": "Invoice",
+      "invoiceTooltip": "Your invoice will be ready in a few moments"
+    },
+    "noInvoices": "You don’t have a terminal invoice.",
+    "orderTerminal": "Order a terminal to start your in-store business !",
+    "orderTerminalBtn": "Order a terminal",
+    "subtitle": "Find here the invoices issued after you bought your payment terminals.",
+    "title": "Invoices of purchased terminals"
+  },
+  "wrapperInvoices": {
+    "invoiceAvailableNextMonth": "Your first invoice will be available next month.",
+    "invoiceTable": {
+      "amount": "Amount",
+      "breakdownOfFees": "Breakdown Of Fees",
+      "chargedOn": "Charged On",
+      "invoice": "Invoice",
+      "month": "Month",
+      "paid": "Paid",
+      "pending": "Pending",
+      "status": "Status",
+      "toCome": "To Come"
+    },
+    "noInvoicesFirstDay": "Invoices are issued on the first day of the month."
+  },
+  "wrapperMyStatements": {
+    "csvExport": "CSV export",
+    "customisedStatement": "Customised statement",
+    "desiredPeriod": "Desired period",
+    "endDate": "End date",
+    "excelExport": "Excel export",
+    "monthlyStatements": {
+      "paginationCount": "<0>OF {{totalStatementsCount}} STATEMENTS</0>"
+    },
+    "startDate": "Start date",
+    "timezone": "Timezone"
+  },
+  "wrapperPayplugUiInPortal": {
+    "testrad": {
+      "button": "button english",
+      "input": "Input"
+    }
+  },
+  "wrapperProducts": {
+    "noProduct": "No product",
+    "noProductSupportUrl": "<0>Click here</0> to learn how to create a payment button",
+    "search": "Search..."
+  },
+  "wrapperTaxCredit": {
+    "costDetails": "DETTAGLIO COSTI",
+    "edit": "Modifica",
+    "editForm": {
+      "actualFiscalCode": "Codice fiscale attuale",
+      "cancel": "ANNULA",
+      "newFiscalCode": "Nuovo codice fiscale",
+      "submit": "CONVALIDA"
+    },
+    "editModal": {
+      "title": "Modifica il tuo codice fiscale"
+    },
+    "eligibilityForm": {
+      "customerTransactionLabel": "Il credito d'imposta si applica solo alle transazioni realizzate dai tuoi clienti",
+      "fiscalCodeError": "Per favore, inserisci un codice fiscale valido per continuare",
+      "header": "Modulo di eleggibilità",
+      "revenueLabel": "Hai realizzato un fatturato inferiore a 400.000 euro nell'anno d'imposta precedente a quello di riferimento",
+      "submit": "Convalida"
+    },
+    "emptyTableMessage": "Le informazioni saranno disponibili il primo giorno del prossimo mese",
+    "explanationParagraph": "A partire dal 1° luglio 2020, secondo quanto previsto dal Bonus su commissioni pagamenti elettronici istituito dal Governo italiano, è stato introdotto un credito d'imposta per le commissioni pagate in relazione ai pagamenti effettuati dai consumatori finali con carte (di credito, debito e/o prepagate) o con altri strumenti di pagamento elettronico tracciabili, come previsto dall'art. 22 del Decreto Legge 124/2019.<br/>Possono beneficiare dell'agevolazione fiscale tutti gli esercenti con un fatturato non superiore a 400.000€ nell'anno d'imposta precedente a quello di riferimento, a prescindere dal regime di contabilità adottato e dalla tipologia giuridica scelta per l'esercizio dell'attività commerciale. Il credito d'imposta verrà applicato solo ai pagamenti BtoC.<br/>Il credito di imposta sui pagamenti elettronici può essere utilizzato in compensazione (come da art. 17 del DL 9 luglio 1997 n. 241) tramite modello F24 dal mese successivo a quello dell'addebito delle commissioni sostenute per la ricezione del pagamento e dovrà essere riportato nella dichiarazione dei redditi. <6>Per saperne di piu</6>.<br/>Per beneficiare del credito d'imposta, scarica ogni mese il documento PDF e compila il modello F24 con l'aiuto del tuo commercialista, quindi invia le informazioni all'Agenzia delle Entrate.<br/>Per maggiori informazioni, visita il sito dell'Agenzia delle Entrate o contatta direttamente il tuo commercialista",
+    "fiscalCode": "Codice fiscale",
+    "month": "MESE",
+    "tabTitle": "Credito d'imposta"
   }
 }
